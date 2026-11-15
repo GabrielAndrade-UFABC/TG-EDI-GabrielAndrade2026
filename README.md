@@ -32,7 +32,7 @@ Nos comandos seguintes, `python` deve apontar para o ambiente em que as dependê
 
 ## Executar a pipeline
 
-A cópia do projeto contém os checkpoints abaixo, em formato `safetensors`. Mantenha os pesos, a configuração e os arquivos do tokenizador na pasta de cada modelo.
+A cópia do projeto não contém checkpoints, mas os mesmos podem ser treinados a partir das pastas CWE, Detection e Fix, respectivamente, em formato `safetensors`. Mantenha os pesos, a configuração e os arquivos do tokenizador na pasta de cada modelo. Como exemplo, segue os modelos treinados no texto acadêmico.
 
 | Etapa | Checkpoint padrão em `Pipeline/checkpoints/` |
 | --- | --- |
