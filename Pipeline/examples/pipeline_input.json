@@ -1,0 +1,10 @@
+[
+  {
+    "id": "unsafe-copy",
+    "code": "void copy_input(char *input) { char buffer[8]; strcpy(buffer, input); }"
+  },
+  {
+    "id": "simple-sum",
+    "code": "int sum(int a, int b) { return a + b; }"
+  }
+]

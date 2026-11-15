@@ -1,0 +1,3 @@
+vulnerable_code,label,cwe_id,cwe_description,fixed_code
+"void vulneravel() { char buf[10]; strcpy(buf, input); }",1,CWE-120,Buffer Overflow,"void vulneravel() { char buf[10]; strncpy(buf, input, sizeof(buf)-1); }"
+"void seguro() { printf(""Ola mundo""); }",0,,,
