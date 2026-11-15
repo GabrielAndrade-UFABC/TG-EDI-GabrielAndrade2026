@@ -1,6 +1,6 @@
 # Identificação e correção de vulnerabilidades em código-fonte com Transformers
 
-Projeto do Trabalho de Graduação em Engenharia da Informação da UFABC, de Gabriel Andrade de Vasconcelos, sob orientação do professor Luneque Silva Jr. O código avalia modelos Transformer em funções C/C++ para detectar indícios de vulnerabilidade, identificar a classe de fraqueza segundo a CWE (*Common Weakness Enumeration*) e propor uma correção.
+Projeto do Trabalho de Graduação em Engenharia da Informação da UFABC, de Gabriel Andrade de Vasconcelos, sob orientação do professor Luneque Silva Jr. O código avalia modelos Transformer em funções C para detectar indícios de vulnerabilidade, identificar a classe de fraqueza segundo a CWE (*Common Weakness Enumeration*) e propor uma correção.
 
 ## Estrutura do projeto
 
