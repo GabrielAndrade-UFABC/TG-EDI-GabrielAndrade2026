@@ -1,6 +1,4 @@
 bstee615/bigvul: func_before
-bstee615/diversevul: func
-colin/PrimeVul: func
 hitoshura25/cvefixes: vulnerable_code
 hitoshura25/megavul: vulnerable_code
 hitoshura25/crossvul: vulnerable_code

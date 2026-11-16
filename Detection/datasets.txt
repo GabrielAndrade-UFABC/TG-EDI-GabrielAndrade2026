@@ -1,3 +1,1 @@
 bstee615/bigvul: func_before
-bstee615/diversevul: func
-colin/PrimeVul: func

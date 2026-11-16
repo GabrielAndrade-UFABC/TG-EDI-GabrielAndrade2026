@@ -1,1 +1,6 @@
+huggingface/CodeBERTa-small-v1
 microsoft/graphcodebert-base
+NinedayWang/PolyCoder-160M
+google/gemma-3-270m-it
+Qwen/Qwen2.5-Coder-0.5B-Instruct
+openai-community/gpt2
